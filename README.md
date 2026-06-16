@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <p style="text-align:center;">
   <img src="https://raw.githubusercontent.com/xRITHx/xRITHx/main/ellen-joe-zzz.gif" 
        alt="Demo GIF" 
