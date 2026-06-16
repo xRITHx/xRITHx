@@ -4,7 +4,7 @@
        alt="Demo GIF" 
        width="100%">
 </p>
-![Ellen](https://raw.githubusercontent.com/xRITHx/xRITHx/main/ellenjoezzz.gif)
+
 
 <!--
 **xRITHx/xRITHx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
